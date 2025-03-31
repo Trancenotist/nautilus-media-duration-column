@@ -33,4 +33,4 @@ SUPPORTED_EXTENSIONS = {'.mp4', '.mkv', '.your-format-here'}
 | Column not showing | Restart Nautilus: `nautilus -q` |
 | "Timeout" errors | Increase `FFPROBE_TIMEOUT` in the script |
 
-**Need help?** [Open an issue](https://github.com/yourusername/nautilus-media-duration-column/issues)!
+**Need help?** [Open an issue](https://github.com/Trancenotist/nautilus-media-duration-column/issues)!

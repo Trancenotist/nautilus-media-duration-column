@@ -19,3 +19,10 @@ nautilus -q
 ```
 
 [Full Documentation](https://github.com/Trancenotist/nautilus-media-duration-column)
+
+
+## FAQ
+
+### Why is the column not showing up?
+- Restart Nautilus: `nautilus -q`
+- Ensure the script is in `~/.local/share/nautilus-python/extensions/`

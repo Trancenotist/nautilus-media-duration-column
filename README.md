@@ -16,7 +16,7 @@ Adds a **duration column** to Nautilus File Manager for videos/audio files, just
 ```bash
 sudo apt update && sudo apt install ffmpeg python3-nautilus -y
 mkdir -p ~/.local/share/nautilus-python/extensions
-wget https://raw.githubusercontent.com/yourusername/nautilus-media-duration-column/main/duration-column.py -O ~/.local/share/nautilus-python/extensions/duration-column.py
+wget https://raw.githubusercontent.com/Trancenotist/nautilus-media-duration-column/main/duration-column.py -O ~/.local/share/nautilus-python/extensions/duration-column.py
 chmod +x ~/.local/share/nautilus-python/extensions/duration-column.py
 nautilus -q
 ```

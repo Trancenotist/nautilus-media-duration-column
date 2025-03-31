@@ -1,4 +1,4 @@
-# Nautilus Media Duration Column 🎥
+# UBuntu Nautilus Media Duration Column 🎥
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Release](https://img.shields.io/github/v/release/Trancenotist/nautilus-media-duration-column)](https://github.com/Trancenotist/nautilus-media-duration-column/releases)

@@ -5,7 +5,7 @@
 
 Adds a **duration column** to Nautilus File Manager for videos/audio files, just like Windows!
 
-![Demo Screenshot](screenshots/demo.png) <!-- Add a screenshot later -->
+![Demo Screenshot](https://github.com/Trancenotist/nautilus-media-duration-column/blob/main/screenshots/2.png)![Demo Screenshot](https://github.com/Trancenotist/nautilus-media-duration-column/blob/main/screenshots/3.png)<!-- Add a screenshot later -->
 
 ## Features ✨
 - 🕒 Persistent caching (no rescanning!)

@@ -12,6 +12,8 @@ Adds a **duration column** to Nautilus File Manager for videos/audio files, just
 - ⚙️ Customize supported formats (MP4, MKV, etc.)
 - 🛠️ Easy install with copy-paste commands
 
+## Works On: Ubuntu 20.04+, Debian 11+, and other GNOME-based distros.
+
 ## Installation 🚀
 ```bash
 sudo apt update && sudo apt install ffmpeg python3-nautilus -y
